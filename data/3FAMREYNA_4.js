@@ -1,0 +1,1 @@
+var json_3FAMREYNA_4 = {"type":"FeatureCollection","name":"3FAMREYNA_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"3"},"geometry":{"type":"Point","coordinates":[-103.254014530300779,20.604361970291922]}}]}

@@ -1,0 +1,1 @@
+var json_6SALONDELREINO_1 = {"type":"FeatureCollection","name":"6SALONDELREINO_1","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"6"},"geometry":{"type":"Point","coordinates":[-103.246293510200871,20.602002541098454]}}]}

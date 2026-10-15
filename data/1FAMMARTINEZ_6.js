@@ -1,0 +1,1 @@
+var json_1FAMMARTINEZ_6 = {"type":"FeatureCollection","name":"1FAMMARTINEZ_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1"},"geometry":{"type":"Point","coordinates":[-103.26322224444533,20.597409566901586]}}]}

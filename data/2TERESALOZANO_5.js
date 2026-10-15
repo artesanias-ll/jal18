@@ -1,0 +1,1 @@
+var json_2TERESALOZANO_5 = {"type":"FeatureCollection","name":"2TERESALOZANO_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2"},"geometry":{"type":"Point","coordinates":[-103.253427194381914,20.594087878390706]}}]}
